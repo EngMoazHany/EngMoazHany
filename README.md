@@ -19,14 +19,10 @@
 ### 🧠 About Me:
 - 🎓 Information Systems student at the Faculty of Computers & Artificial Intelligence, Helwan University (2022–2026).
 - 🧠 Passionate about building smart solutions using **React**, **.NET Core**, and **Python (ML models)**.
-- 🤖 Working with a team of 6 on robotics, Islamic tools, and budget management apps.
 - 🎯 Strong in **problem solving**, **SDLC**, **UML diagrams**, and **system analysis**.
-- 📍 From Mohandessin / 6 October, Egypt — often between **Egypt** and **Saudi Arabia**.
+- 📍 From Egypt — often between **Egypt** and **Saudi Arabia**.
 - 🔍 Always open to new challenges, internships, and teamwork opportunities.
-
 ---
-
-
 ### 🔧 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
